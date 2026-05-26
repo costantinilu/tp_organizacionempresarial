@@ -1,4 +1,4 @@
-# Análisis de Ventas - Empresa Simulada
+# Análisis de Ventas
 
 ## Integrante
 - Luciano Costantini
